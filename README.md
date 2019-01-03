@@ -34,6 +34,8 @@ This does not need to be an exhaustive list. We want you to identify major techn
 
 * React-native
 * ViroReact AR platform
+* React-native-maps
+* React-native-navigation
 * Node/Express server
 * Knex queries
 
