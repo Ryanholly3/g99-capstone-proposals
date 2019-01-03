@@ -6,6 +6,7 @@ Please complete this project proposal thoroughly so that your instructors can re
 
 ## Project Description
 
+A virtual geo-caching app, that allows users to drop/pick-up virtual items in physical space.
 
 
 ## Problem Statement
@@ -18,17 +19,22 @@ Please complete this project proposal thoroughly so that your instructors can re
 
 ## 5 user stories (at least):
 
-*
-*
-*
-*
-*
+* User will be prompted to sign up or login when entering page
+* upon login, user will be sent to profile page, where users stats and objects collected are listed.
+* User will be able to navigate between three screens - profile, map, and AR scene, using top navbar
+* When user enters map screen, they will be able to interact with map, view current location, and view pinned virtual objects 
+* Once close enough to object, user will be able to enter AR mode.
+* Once in AR mode, user will be able to use camera to find virtual object. Once close enough to object, user will be able to pick up object.
+* Upon picking up object, user's profile will be updated with object.
 
 ## What technologies do you plan to use?
 
 This does not need to be an exhaustive list. We want you to identify major technologies you will be using. This list may grow or shrink as your project progresses.
 
-*
+* React-native
+* ViroReact AR platform
+* Node/Express server
+* Knex queries
 
 ## ERD - Entity Relationship Diagram
 
