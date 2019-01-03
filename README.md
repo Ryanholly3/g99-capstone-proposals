@@ -26,6 +26,7 @@ A virtual geo-caching app, that allows users to drop/pick-up virtual items in ph
 * Once close enough to object, user will be able to enter AR mode.
 * Once in AR mode, user will be able to use camera to find virtual object. Once close enough to object, user will be able to pick up object.
 * Upon picking up object, user's profile will be updated with object.
+* In AR mode, user should be able to drop object. 
 
 ## What technologies do you plan to use?
 
