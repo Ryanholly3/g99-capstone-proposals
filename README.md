@@ -42,7 +42,9 @@ This does not need to be your absolute final ERD. We want you thinking about you
 
 ![img_0351](https://user-images.githubusercontent.com/28697083/50662402-7c1d8880-0f63-11e9-836c-379b21bf1a9f.jpeg)
 
-
+Unowned_object table fields:
+* Latitude
+* Longitude
 
 ## Wireframes
 
