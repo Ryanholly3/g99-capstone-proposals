@@ -44,7 +44,7 @@ This does not need to be an exhaustive list. We want you to identify major techn
 
 This does not need to be your absolute final ERD. We want you thinking about your data and how it might be related. Your ERD can be adjusted as your project progresses. 
 
-![img_0351](https://user-images.githubusercontent.com/28697083/50662402-7c1d8880-0f63-11e9-836c-379b21bf1a9f.jpeg)
+![img_0357](https://user-images.githubusercontent.com/28697083/50714452-151cd400-1036-11e9-9869-e44d8486c2a6.jpeg)
 
 Unowned_object table fields:
 * Latitude
