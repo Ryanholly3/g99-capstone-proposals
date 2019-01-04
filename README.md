@@ -11,10 +11,11 @@ A virtual geo-caching app, that allows users to drop/pick-up virtual items in ph
 
 ## Problem Statement
 
-
+With advances in AR software, developers can now create apps where the user can interact with environment. There are lots of cool applications for AR, and I believe that AR will increasingly become a part of our lives. I wanted to create an app that uses this exciting new software and demonstrates the utility of AR to users.
 
 ## How will your project solve this problem?
 
+This app will provide a fun way for users to get comfortable with AR, and hopefully motivate people into looking into AR in tech!
 
 
 ## 5 user stories (at least):
